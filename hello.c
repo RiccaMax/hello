@@ -12,7 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Maximus Ricca!\n");
-  printf("Majoring in CSCE!\n");
+  printf("Majoring in CSCE.\n");
 
   return 0;
 }
