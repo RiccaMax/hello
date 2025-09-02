@@ -11,6 +11,9 @@ int main()  {
 
     printf("Maximus Ricca!\n");
     printf("Majoring in CSCE.\n");
+    printf("\n");
+    printf("Minh Tran!\n");
+    printf("I am majoring in Computer Engineering.\n");
 
     return 0;
 }
