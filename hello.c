@@ -10,7 +10,7 @@
 int main()  {
 
     printf("Maximus Ricca!\n");
-    printf("Majoring in Computer Science.\n");
+    printf("Majoring in CSCE.\n");
 
     return 0;
 }
